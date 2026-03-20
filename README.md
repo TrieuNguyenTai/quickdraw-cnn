@@ -13,7 +13,7 @@
 Train a CNN model on the [Google QuickDraw dataset](https://quickdraw.withgoogle.com/data) to recognize 15 hand-drawn categories. The system uses **MediaPipe** to track the index finger via webcam, letting users draw in the air and get real-time predictions.
 
 ### Model Results
-![TensorBoard](assets/tensorboard.png)
+![TensorBoard](assets/tensorboard.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ docker run quickdraw-cnn
 ![Demo](assets/demo.png)
 
 ### Demo Video
-> *(Add demo video link here — YouTube / Google Drive)*
+[▶ Watch Demo](assets/demo.mp4)
 
 ---
 
