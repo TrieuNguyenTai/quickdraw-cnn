@@ -1,0 +1,31 @@
+# Dataset (quá nặng)
+dataset_Quick_Draw/
+
+# Trained model
+train_model_QuickDraw/
+
+# TensorBoard logs
+tensor_board_quickdraw/
+
+# MediaPipe model (tự download khi chạy)
+hand_landmarker.task
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
