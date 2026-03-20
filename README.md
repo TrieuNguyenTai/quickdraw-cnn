@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-Train a CNN model on the [Google QuickDraw dataset](https://quickdraw.withgoogle.com/data) to recognize 15 hand-drawn categories. The system uses **MediaPipe** to track the index finger via webcam, letting users draw in the air and get real-time predictions.
+Train a CNN model on the [Google QuickDraw dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn) to recognize 15 hand-drawn categories. The system uses **MediaPipe** to track the index finger via webcam, letting users draw in the air and get real-time predictions.
 
 ### Model Results
 ![TensorBoard](assets/tensorboard.jpg)
