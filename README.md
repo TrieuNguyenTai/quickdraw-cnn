@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ### 3. Download dataset
 Download QuickDraw `.npy` files and place them in `dataset_Quick_Draw/`:
-- [Google QuickDraw Dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap)
+- [Google QuickDraw Dataset]([Google QuickDraw Dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/sketchrnn)
 
 ### 4. Train model
 ```bash
@@ -106,12 +106,7 @@ docker run quickdraw-cnn
 ---
 
 ## 📷 Demo
-
-### Webcam Drawing App
-![Demo](assets/demo.png)
-
-### Demo Video
-[▶ Watch Demo](assets/demo.mp4)
+![Demo](assets/demo.gif)
 
 ---
 
